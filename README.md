@@ -2,12 +2,12 @@
 
 Este pequeno projeto é um MVP integrante da sprint I (Desenvolvimento Full Stack Básico) da pós-graduação em Engenharia de Software da PUC Rio. 
 
-#Justicativa:
+# Justicativa:
 
 A eficiência e confiabilidade dos sistemas de automação industrial dependem, em grande parte, do pronto acesso a materiais de reposição e manutenção. Para otimizar esse processo crítico, foi desenvolvido uma API para o gerenciamento de materiais em um almoxarifado dedicado à armazenar suprimetos de reposição para manutenção em sistemas de automação industrial. 
 
 
-#Funcionalidades:
+# Funcionalidades:
 
 Registro de materiais: a API permitirá o cadastro de materiais de reposição informando sua descrição, quantidade e grupo ao qual o material pertence;
 
