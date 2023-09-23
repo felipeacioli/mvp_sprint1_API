@@ -1,7 +1,8 @@
-# API para cadastrar materiais e fazer contorle de estoque
+# API para cadastrar materiais e fazer controle de estoque
 
 Este pequeno projeto é um MVP integrante da sprint I (Desenvolvimento Full Stack Básico) da pós-graduação em Engenharia de Software da PUC Rio. 
 
+#Justicativa:
 
 A eficiência e confiabilidade dos sistemas de automação industrial dependem, em grande parte, do pronto acesso a materiais de reposição e manutenção. Para otimizar esse processo crítico, foi desenvolvido uma API para o gerenciamento de materiais em um almoxarifado dedicado à armazenar suprimetos de reposição para manutenção em sistemas de automação industrial. 
 
