@@ -1,4 +1,4 @@
-# API para cadastrar materiais e fazer controle de estoque
+# API para cadastrar materiais
 
 Este pequeno projeto é um MVP integrante da sprint I (Desenvolvimento Full Stack Básico) da pós-graduação em Engenharia de Software da PUC Rio. 
 
