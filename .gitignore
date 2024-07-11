@@ -1,0 +1,31 @@
+# Ignorar diretórios de ambientes virtuais
+/venv/
+/env/
+/virtualenv/
+/.venv/
+/.env/
+/.virtualenv/
+
+# Arquivos de compilação Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de logs e caches
+*.log
+*.cache
+
+# Arquivos de configuração sensíveis
+.env
+.env.*
+
+# Arquivos gerados automaticamente
+/dist/
+/build/
+/egg-info/
+
+# Arquivos de cache de editores ou IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
