@@ -1,0 +1,53 @@
+[2024-07-11 10:15:26,913] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000 - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:26,914] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:26,917] INFO _log() L97    * Restarting with stat - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,164] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,185] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,338] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "GET /openapi/static/css/swagger-ui.css HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,391] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "GET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,480] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "GET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,727] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 10:15:36,765] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 10:15:36] "GET /openapi/static/images/swagger.svg HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:17,061] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000 - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:17,062] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:17,065] INFO _log() L97    * Restarting with stat - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:21,998] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:21] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:22,016] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:22] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:22,169] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:22] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:22,222] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:22] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:22,311] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:22] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:22,557] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:22] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:22,595] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:22] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:33,246] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:33] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:33,251] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:33] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:54,337] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:54] "GET /materiais HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:01:56,009] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:01:56] "GET /materiais HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:02:48,116] WARNING add_material() L41   Adicionando material que foi especificado como: 'Cimento Nassau 50kg' - call_trace=C:\Workspace\mvp_sprint1_API\app.py L41  
+[2024-07-11 13:02:48,133] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:02:48] "POST /material HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 13:02:53,449] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 13:02:53] "GET /materiais HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:30:53,275] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000 - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:30:53,276] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:30:53,278] INFO _log() L97    * Restarting with stat - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:31:17,553] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:31:17] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:31:39,043] WARNING add_material() L42   Adicionando material que foi especificado como: 'Cimento' - call_trace=C:\Workspace\mvp_sprint1_API\app.py L42  
+[2024-07-11 17:31:39,046] WARNING add_material() L62   Erro ao adicionar material 'Cimento', Não foi possível salvar novo item :/ - call_trace=C:\Workspace\mvp_sprint1_API\app.py L62  
+[2024-07-11 17:31:39,046] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:31:39] "[31m[1mPOST /material HTTP/1.1[0m" 400 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:47:31,774] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:47:31] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:58:06,524] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:58:06] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:58:25,304] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:58:25] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:58:27,306] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:58:27] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:58:29,257] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:58:29] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:58:36,674] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:58:36] "[35m[1mGET /materiais HTTP/1.1[0m" 500 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:58:51,962] WARNING add_material() L42   Adicionando material que foi especificado como: 'Cimento' - call_trace=C:\Workspace\mvp_sprint1_API\app.py L42  
+[2024-07-11 17:58:51,963] WARNING add_material() L62   Erro ao adicionar material 'Cimento', Não foi possível salvar novo item :/ - call_trace=C:\Workspace\mvp_sprint1_API\app.py L62  
+[2024-07-11 17:58:51,964] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:58:51] "[31m[1mPOST /material HTTP/1.1[0m" 400 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-11 17:59:02,193] INFO _log() L97   127.0.0.1 - - [11/Jul/2024 17:59:02] "OPTIONS /material?descricao=Cimento HTTP/1.1" 200 - - call_trace=C:\Workspace\mvp_sprint1_API\lipaum_env\Lib\site-packages\werkzeug\_internal.py L97  

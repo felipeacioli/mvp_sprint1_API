@@ -36,6 +36,7 @@ def add_material(form: MaterialSchema):
     material = Material(
         descricao=form.descricao,
         quantidade=form.quantidade,
+        preco=form.preco,
         grupo=form.grupo)
         #data_insercao=form.data_insercao)
     logger.warning(f"Adicionando material que foi especificado como: '{material.descricao}'")

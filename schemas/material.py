@@ -9,6 +9,7 @@ class MaterialSchema(BaseModel):
     """
     descricao: str = "CIRCUITO INTEGRADO LM 358"
     quantidade: Optional[int] = 35
+    preco: Optional[int] = 35
     grupo: str = "Eletrônico"
 
 
@@ -39,6 +40,7 @@ def apresenta_materiais(materiais: List[Material]):
         result.append({
             "descricao": material.descricao,
             "quantidade": material.quantidade,
+            "preco": material.preco,
             "grupo": material.grupo,
         })
 
@@ -50,6 +52,7 @@ class MaterialViewSchema(BaseModel):
     id: int = 1
     descricao: str = "CIRCUITO INTEGRADO LM 358"
     quantidade: Optional[int] = 35
+    preco: Optional[int] = 35
     grupo: str = "Eletrônico"
 
 
@@ -68,5 +71,6 @@ def apresenta_material(material: Material):
         "id": material.id,
         "descricao": material.descricao,
         "quantidade": material.quantidade,
+        "preco": material.preco,
         "grupo": material.grupo,
     }
